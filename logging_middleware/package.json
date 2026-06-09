@@ -1,0 +1,13 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable request and application logging middleware for the notification app.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/logger.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
